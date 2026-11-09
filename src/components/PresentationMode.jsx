@@ -159,3 +159,4 @@ export default function PresentationMode({ isOpen, onClose, onJumpToSandbox }) {
     </div>
   );
 }
+
